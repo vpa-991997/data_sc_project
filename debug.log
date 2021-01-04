@@ -1,0 +1,7 @@
+[1225/165759.367:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1225/171120.847:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1225/174302.561:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\PHUONG~1\AppData\Local\Temp\scoped_dir10460_77015585\Crashpad\attachments\8083a200-d906-474e-a7d7-f498d30f27f6: The system cannot find the path specified. (0x3)
+[1225/174623.971:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1225/175826.239:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1225/183131.775:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1225/191540.217:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
